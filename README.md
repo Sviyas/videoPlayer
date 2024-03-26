@@ -34,7 +34,7 @@ The Video Player App is designed to provide a simple and user-friendly interface
 1. Clone the repository:
 
    ```bash
-   https://github.com/Sviyas/videoPlayer.git
+   git clone https://github.com/Sviyas/videoPlayer.git
    ```
 
 ![video player](src/assets/image.png)
